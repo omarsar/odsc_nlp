@@ -4,10 +4,13 @@ Applied Deep Learning for NLP Applications
 ## Abstract
 Natural language processing (NLP) has become an important field with interest from many important sectors that leverage modern deep learning methods for approaching several NLP problems and tasks such as text summarization, question answering, and sentiment classification, to name a few. In this tutorial, we will introduce several of the fundamental NLP techniques and more modern approaches (BERT, GTP-2, etc.) and show how they can be applied to approach many real-world NLP problems. We will focus on how to build an NLP pipeline using several open-source tools such as spaCy and TensorFlow. Then we will learn how to use the model to search over documents based on semantic relationships. We will use open-source technologies such as BERT and Elasticsearch for this segment to build a simple proof of concept. In essence, the learner will take away the important theoretical pieces needed to build practical NLP pipelines to address a wider variety of problems. 
 
+
+
 ## Audience
 The target audience for this tutorial are ideally participants with some exposure to the Python programming language and have used natural language processing language tools such as spaCy or NLTK. Knowledge of machine learning tools and concepts is also a benefit as we will be using them in this tutorial. Beginners are also welcome but still require at least some theoretical understanding of NLP and machine learning concepts.
 
 ## Tentative Outline (for 3.5 hours)
+Below we outline the tentative schedule and topics for this tutorial. The tutorial consists of three modules with each module consisting of an exercise at the end. The purpose of the tutorials is to allows the participants to get as much hands-on experience with the methods and techniques taught during the modules. Each module and exerciser will come in the form of online Jupyter notebook to ensure that participants make the most out of the exercise time and focus on solving the problem assigned as opposed to troubleshooting issues. This will also allows time for short discussions and questions. 
 
 ### Module 1 - Introduction to NLP Fundamentals (30 minutes)
 In this module we will brielfy introduce the fundamental NLP and deep learning concepts that are necessary to begin building more sophisticated NLP pipelines that will eventually lead to building models that can be used to approach several natural langauge problems. For instance, we will cover how to properly tokenize text, create vocabularies, train language models, etc.
