@@ -6,7 +6,7 @@ Natural language processing (NLP) has become an important field with interest fr
 
 
 ## Audience
-The target audience for this tutorial are ideally participants with some exposure to the Python programming language and have used natural language processing language tools such as spaCy or NLTK. Knowledge of machine learning tools and concepts is also a benefit as we will be using them in this tutorial. Beginners are also welcome but still require at least some theoretical understanding of NLP and machine learning concepts.
+The target audience for this tutorial are ideally participants with some exposure to the Python programming language and have used natural language processing tools such as spaCy or NLTK. Knowledge of machine learning tools and concepts is also a benefit as we will be using them in this tutorial. Beginners are also welcome but still require at least some theoretical understanding of NLP and machine learning concepts.
 
 ## Tentative Outline (for 3.5 hours)
 Below we outline the tentative schedule and topics for this tutorial. The tutorial consists of three modules with each module consisting of an exercise at the end. The purpose of the tutorials is to allow the participants to get as much hands-on experience with the methods and techniques taught during the modules. Each module and exercise will come in the form of online Jupyter notebook to ensure that participants make the most out of the exercise time and focus on solving the problem assigned as opposed to troubleshooting issues. This will also allow time for short discussions and questions if the attendees have any. 
